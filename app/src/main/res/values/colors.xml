@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainBackgroundColor">#090A33</color>
+    <color name="topPanelBackgroundColor">#0C5A72</color>
+    <color name="buttonColor">#80D4FF</color>
+</resources>

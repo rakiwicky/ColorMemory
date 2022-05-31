@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Color Memory</string>
+    <string name="youWon">You have just won!</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="highestScores">Highest Scores</string>
+    <string name="newGame">New Game</string>
+    <string name="exitGame">Exit</string>
+    <string name="rank">Rank</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="enterYourName">Enter your name : </string>
+    <string name="itsAMatch">Well done. It\'s a match.</string>
+    <string name="tryAgain">Sorry. Try again.</string>
+    <string name="yourScore">Your Score :</string>
+    <string name="pleaseEnterYourName">Please enter your name!</string>
+</resources>
